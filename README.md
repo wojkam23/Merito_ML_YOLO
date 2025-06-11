@@ -85,3 +85,8 @@ Plik konfiguracyjny zawierający mapowanie kanałów (np. `"tvn"`, `"ttv"`) na p
 
 └── labels/val/ # Adnotacje walidacyjne
 
+
+
+## Zdjęcie ilustrujące działanie
+![image](https://github.com/user-attachments/assets/2993757d-ac38-4cf8-8040-eb4de3424ef6)
+
