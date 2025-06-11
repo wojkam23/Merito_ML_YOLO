@@ -12,6 +12,11 @@ System bazuje na modelu detekcyjnym YOLOv8 (ang. *You Only Look Once*) oraz bibl
 
 ---
 
+## Zdjęcie ilustrujące działanie
+![image](https://github.com/user-attachments/assets/2993757d-ac38-4cf8-8040-eb4de3424ef6)
+
+---
+
 ##  Wykorzystane technologie
 
 - **YOLOv8** – zaawansowany model do detekcji obiektów w czasie rzeczywistym (Ultralytics).
@@ -87,6 +92,5 @@ Plik konfiguracyjny zawierający mapowanie kanałów (np. `"tvn"`, `"ttv"`) na p
 
 
 
-## Zdjęcie ilustrujące działanie
-![image](https://github.com/user-attachments/assets/2993757d-ac38-4cf8-8040-eb4de3424ef6)
+
 
