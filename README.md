@@ -2,7 +2,7 @@
 
 ##  Cel projektu
 
-Celem projektu jest stworzenie systemu, który automatycznie wykrywa logotypy kanałów telewizyjnych w materiałach wideo. Może to znaleźć zastosowanie w analizie treści nadawczych, wykrywaniu reklam, a także jako część systemów archiwizujących transmisje telewizyjne.
+Celem projektu jest stworzenie systemu, który automatycznie wykrywa logotypy kanałów telewizyjnych w materiałach wideo. Może to znaleźć zastosowanie w analizie treści nadawczych, wykrywaniu reklam.
 
 System bazuje na modelu detekcyjnym YOLOv8 (ang. *You Only Look Once*) oraz bibliotece OpenCV i umożliwia:
 
