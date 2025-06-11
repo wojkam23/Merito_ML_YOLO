@@ -74,8 +74,14 @@ Plik konfiguracyjny zawierający mapowanie kanałów (np. `"tvn"`, `"ttv"`) na p
 - Detekcje są aktualizowane co sekundę (co 1 klatkę na sekundę), aby uniknąć przeciążenia systemu.
 
 └── datasets/
+
 └── tvchannels/
+
 ├── images/train/ # Obrazy treningowe
+
 ├── labels/train/ # Adnotacje YOLO
+
 ├── images/val/ # Obrazy walidacyjne
+
 └── labels/val/ # Adnotacje walidacyjne
+
