@@ -34,4 +34,4 @@ for channel in channels:
 
         # Zmiana nazwy pliku
         os.rename(old_path, new_path)
-        print(f"✅ {old_name} → {new_name}")
+        print(f"{old_name} → {new_name}")
